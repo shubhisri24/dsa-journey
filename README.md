@@ -1,10 +1,10 @@
-# 🚀 My DSA Journey
+#  My DSA Journey
 
 Welcome to my personal repository where I document my journey of learning and mastering **Data Structures and Algorithms (DSA)**.
 
 ---
 
-## 📌 Purpose
+## Purpose
 
 This repository is a log of:
 - Daily problem-solving and coding practice
@@ -14,7 +14,7 @@ This repository is a log of:
 ---
 
 
-## 🛠️ Stack Used
+##  Stack Used
 
 - Language: **C++**
 - Editor: **VS Code**
@@ -22,7 +22,7 @@ This repository is a log of:
 
 ---
 
-## 📈 Why This Repo?
+##  Why This Repo?
 
 I'm learning in public to:
 - Stay accountable
@@ -32,13 +32,13 @@ I'm learning in public to:
 
 ---
 
-## 🌱 Want to Join In?
+##  Want to Join In?
 
 You're welcome to:
-- ⭐ Star this repo if you find it inspiring
-- 👀 Follow along or fork it to start your own DSA log
-- 🧠 Share your own progress too!
+-  Star this repo if you find it inspiring
+-  Follow along or fork it to start your own DSA log
+-  Share your own progress too!
 
 ---
 
-### Let’s keep growing, one problem at a time. 🌟
+### Let’s keep growing, one problem at a time. 
