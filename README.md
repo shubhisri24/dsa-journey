@@ -2,6 +2,27 @@
 
 Welcome to my personal repository where I document my journey of learning and mastering **Data Structures and Algorithms (DSA)**.
 
+## Topics Covered
+
+- Arrays
+- Strings
+- Searching
+- Sorting
+- Pointers
+- Linked List
+- Stack
+- Queue
+- Trees
+- Graphs
+- Dynamic Programming
+
+## Goal
+
+- Solve 300+ DSA problems
+- Build strong problem-solving skills
+- Prepare for software engineering interviews
+
+
 ---
 
 ## Purpose
