@@ -21,7 +21,7 @@ int sort(int arr[], int n)
         {
             swap(arr[l], arr[r]);
             l++;
-            l--;
+            r--;
         }
     }
 }
